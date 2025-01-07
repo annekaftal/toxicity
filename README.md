@@ -2,14 +2,7 @@
 
 Toxicity is a social media platform for haters only. They now have their own special place to go (and will hopefully stay clear of other sites!).
 
-This satirical social media platform allows users to: 
-- Create an account 
-- Login and logout
-- Create new posts 
-- Like and comment on other posts
-- Search posts by tag name
-- Follow their favourite accounts
-
+This satirical social media platform allows users to create an account, login and logout, create new posts, like and comment on other posts, search posts by tag name, follow their favourite accounts, and more.
 
 ## Project characteristics
 
