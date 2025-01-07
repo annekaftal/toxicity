@@ -9,7 +9,6 @@ Visit Toxicity <a href="https://toxicity-six.vercel.app/">here</a>.
 ## Project characteristics
 
 - Group project (2 people)
-- Made in two weeks
 - Technical features:
     - Frontend component conception
     - Frontend animations with GSAP
