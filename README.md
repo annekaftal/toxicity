@@ -4,6 +4,8 @@ Toxicity is a social media platform for haters only. They now have their own spe
 
 This satirical social media platform allows users to create an account, create new posts, like and comment on other posts, search posts by tag name, follow their favourite accounts, and more.
 
+Visit Toxicity <a href="https://toxicity-six.vercel.app/">here</a>.
+
 ## Project characteristics
 
 - Group project (2 people)
